@@ -1,0 +1,3111 @@
+div
+{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+
+    width: 100px;
+    height: 2px;
+
+    background: black;
+}
+div:nth-child(1)
+{
+    -webkit-animation: blorp-1 3s ease infinite alternate;
+            animation: blorp-1 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-1
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-329deg);
+                transform: rotate(-329deg);
+
+        opacity: .5;
+        background: #a5a5a5;
+    }
+}
+@keyframes blorp-1
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-329deg);
+                transform: rotate(-329deg);
+
+        opacity: .5;
+        background: #a5a5a5;
+    }
+}
+div:nth-child(2)
+{
+    -webkit-animation: blorp-2 3s ease infinite alternate;
+            animation: blorp-2 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-2
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(283deg);
+                transform: rotate(283deg);
+
+        opacity: .5;
+        background: #4d4d4d;
+    }
+}
+@keyframes blorp-2
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(283deg);
+                transform: rotate(283deg);
+
+        opacity: .5;
+        background: #4d4d4d;
+    }
+}
+div:nth-child(3)
+{
+    -webkit-animation: blorp-3 3s ease infinite alternate;
+            animation: blorp-3 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-3
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(269deg);
+                transform: rotate(269deg);
+
+        opacity: .5;
+        background: #545454;
+    }
+}
+@keyframes blorp-3
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(269deg);
+                transform: rotate(269deg);
+
+        opacity: .5;
+        background: #545454;
+    }
+}
+div:nth-child(4)
+{
+    -webkit-animation: blorp-4 3s ease infinite alternate;
+            animation: blorp-4 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-4
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(73deg);
+                transform: rotate(73deg);
+
+        opacity: .5;
+        background: #7a7a7a;
+    }
+}
+@keyframes blorp-4
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(73deg);
+                transform: rotate(73deg);
+
+        opacity: .5;
+        background: #7a7a7a;
+    }
+}
+div:nth-child(5)
+{
+    -webkit-animation: blorp-5 3s ease infinite alternate;
+            animation: blorp-5 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-5
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-194deg);
+                transform: rotate(-194deg);
+
+        opacity: .5;
+        background: #6b6b6b;
+    }
+}
+@keyframes blorp-5
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-194deg);
+                transform: rotate(-194deg);
+
+        opacity: .5;
+        background: #6b6b6b;
+    }
+}
+div:nth-child(6)
+{
+    -webkit-animation: blorp-6 3s ease infinite alternate;
+            animation: blorp-6 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-6
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-42deg);
+                transform: rotate(-42deg);
+
+        opacity: .5;
+        background: #797979;
+    }
+}
+@keyframes blorp-6
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-42deg);
+                transform: rotate(-42deg);
+
+        opacity: .5;
+        background: #797979;
+    }
+}
+div:nth-child(7)
+{
+    -webkit-animation: blorp-7 3s ease infinite alternate;
+            animation: blorp-7 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-7
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(181deg);
+                transform: rotate(181deg);
+
+        opacity: .5;
+        background: #383838;
+    }
+}
+@keyframes blorp-7
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(181deg);
+                transform: rotate(181deg);
+
+        opacity: .5;
+        background: #383838;
+    }
+}
+div:nth-child(8)
+{
+    -webkit-animation: blorp-8 3s ease infinite alternate;
+            animation: blorp-8 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-8
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-51deg);
+                transform: rotate(-51deg);
+
+        opacity: .5;
+        background: #c3c3c3;
+    }
+}
+@keyframes blorp-8
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-51deg);
+                transform: rotate(-51deg);
+
+        opacity: .5;
+        background: #c3c3c3;
+    }
+}
+div:nth-child(9)
+{
+    -webkit-animation: blorp-9 3s ease infinite alternate;
+            animation: blorp-9 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-9
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(184deg);
+                transform: rotate(184deg);
+
+        opacity: .5;
+        background: #909090;
+    }
+}
+@keyframes blorp-9
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(184deg);
+                transform: rotate(184deg);
+
+        opacity: .5;
+        background: #909090;
+    }
+}
+div:nth-child(10)
+{
+    -webkit-animation: blorp-10 3s ease infinite alternate;
+            animation: blorp-10 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-10
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-111deg);
+                transform: rotate(-111deg);
+
+        opacity: .5;
+        background: #868686;
+    }
+}
+@keyframes blorp-10
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-111deg);
+                transform: rotate(-111deg);
+
+        opacity: .5;
+        background: #868686;
+    }
+}
+div:nth-child(11)
+{
+    -webkit-animation: blorp-11 3s ease infinite alternate;
+            animation: blorp-11 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-11
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(83deg);
+                transform: rotate(83deg);
+
+        opacity: .5;
+        background: #9c9c9c;
+    }
+}
+@keyframes blorp-11
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(83deg);
+                transform: rotate(83deg);
+
+        opacity: .5;
+        background: #9c9c9c;
+    }
+}
+div:nth-child(12)
+{
+    -webkit-animation: blorp-12 3s ease infinite alternate;
+            animation: blorp-12 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-12
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(275deg);
+                transform: rotate(275deg);
+
+        opacity: .5;
+        background: #3e3e3e;
+    }
+}
+@keyframes blorp-12
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(275deg);
+                transform: rotate(275deg);
+
+        opacity: .5;
+        background: #3e3e3e;
+    }
+}
+div:nth-child(13)
+{
+    -webkit-animation: blorp-13 3s ease infinite alternate;
+            animation: blorp-13 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-13
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(53deg);
+                transform: rotate(53deg);
+
+        opacity: .5;
+        background: #3a3a3a;
+    }
+}
+@keyframes blorp-13
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(53deg);
+                transform: rotate(53deg);
+
+        opacity: .5;
+        background: #3a3a3a;
+    }
+}
+div:nth-child(14)
+{
+    -webkit-animation: blorp-14 3s ease infinite alternate;
+            animation: blorp-14 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-14
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(315deg);
+                transform: rotate(315deg);
+
+        opacity: .5;
+        background: #3a3a3a;
+    }
+}
+@keyframes blorp-14
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(315deg);
+                transform: rotate(315deg);
+
+        opacity: .5;
+        background: #3a3a3a;
+    }
+}
+div:nth-child(15)
+{
+    -webkit-animation: blorp-15 3s ease infinite alternate;
+            animation: blorp-15 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-15
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-43deg);
+                transform: rotate(-43deg);
+
+        opacity: .5;
+        background: #272727;
+    }
+}
+@keyframes blorp-15
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-43deg);
+                transform: rotate(-43deg);
+
+        opacity: .5;
+        background: #272727;
+    }
+}
+div:nth-child(16)
+{
+    -webkit-animation: blorp-16 3s ease infinite alternate;
+            animation: blorp-16 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-16
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-30deg);
+                transform: rotate(-30deg);
+
+        opacity: .5;
+        background: #4a4a4a;
+    }
+}
+@keyframes blorp-16
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-30deg);
+                transform: rotate(-30deg);
+
+        opacity: .5;
+        background: #4a4a4a;
+    }
+}
+div:nth-child(17)
+{
+    -webkit-animation: blorp-17 3s ease infinite alternate;
+            animation: blorp-17 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-17
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-89deg);
+                transform: rotate(-89deg);
+
+        opacity: .5;
+        background: #7c7c7c;
+    }
+}
+@keyframes blorp-17
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-89deg);
+                transform: rotate(-89deg);
+
+        opacity: .5;
+        background: #7c7c7c;
+    }
+}
+div:nth-child(18)
+{
+    -webkit-animation: blorp-18 3s ease infinite alternate;
+            animation: blorp-18 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-18
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(33deg);
+                transform: rotate(33deg);
+
+        opacity: .5;
+        background: #141414;
+    }
+}
+@keyframes blorp-18
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(33deg);
+                transform: rotate(33deg);
+
+        opacity: .5;
+        background: #141414;
+    }
+}
+div:nth-child(19)
+{
+    -webkit-animation: blorp-19 3s ease infinite alternate;
+            animation: blorp-19 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-19
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-319deg);
+                transform: rotate(-319deg);
+
+        opacity: .5;
+        background: #939393;
+    }
+}
+@keyframes blorp-19
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-319deg);
+                transform: rotate(-319deg);
+
+        opacity: .5;
+        background: #939393;
+    }
+}
+div:nth-child(20)
+{
+    -webkit-animation: blorp-20 3s ease infinite alternate;
+            animation: blorp-20 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-20
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(262deg);
+                transform: rotate(262deg);
+
+        opacity: .5;
+        background: #cfcfcf;
+    }
+}
+@keyframes blorp-20
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(262deg);
+                transform: rotate(262deg);
+
+        opacity: .5;
+        background: #cfcfcf;
+    }
+}
+div:nth-child(21)
+{
+    -webkit-animation: blorp-21 3s ease infinite alternate;
+            animation: blorp-21 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-21
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-209deg);
+                transform: rotate(-209deg);
+
+        opacity: .5;
+        background: #0c0c0c;
+    }
+}
+@keyframes blorp-21
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-209deg);
+                transform: rotate(-209deg);
+
+        opacity: .5;
+        background: #0c0c0c;
+    }
+}
+div:nth-child(22)
+{
+    -webkit-animation: blorp-22 3s ease infinite alternate;
+            animation: blorp-22 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-22
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(233deg);
+                transform: rotate(233deg);
+
+        opacity: .5;
+        background: #fdfdfd;
+    }
+}
+@keyframes blorp-22
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(233deg);
+                transform: rotate(233deg);
+
+        opacity: .5;
+        background: #fdfdfd;
+    }
+}
+div:nth-child(23)
+{
+    -webkit-animation: blorp-23 3s ease infinite alternate;
+            animation: blorp-23 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-23
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(88deg);
+                transform: rotate(88deg);
+
+        opacity: .5;
+        background: #444;
+    }
+}
+@keyframes blorp-23
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(88deg);
+                transform: rotate(88deg);
+
+        opacity: .5;
+        background: #444;
+    }
+}
+div:nth-child(24)
+{
+    -webkit-animation: blorp-24 3s ease infinite alternate;
+            animation: blorp-24 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-24
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(28deg);
+                transform: rotate(28deg);
+
+        opacity: .5;
+        background: #5b5b5b;
+    }
+}
+@keyframes blorp-24
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(28deg);
+                transform: rotate(28deg);
+
+        opacity: .5;
+        background: #5b5b5b;
+    }
+}
+div:nth-child(25)
+{
+    -webkit-animation: blorp-25 3s ease infinite alternate;
+            animation: blorp-25 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-25
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-229deg);
+                transform: rotate(-229deg);
+
+        opacity: .5;
+        background: #575757;
+    }
+}
+@keyframes blorp-25
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-229deg);
+                transform: rotate(-229deg);
+
+        opacity: .5;
+        background: #575757;
+    }
+}
+div:nth-child(26)
+{
+    -webkit-animation: blorp-26 3s ease infinite alternate;
+            animation: blorp-26 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-26
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-83deg);
+                transform: rotate(-83deg);
+
+        opacity: .5;
+        background: #a6a6a6;
+    }
+}
+@keyframes blorp-26
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-83deg);
+                transform: rotate(-83deg);
+
+        opacity: .5;
+        background: #a6a6a6;
+    }
+}
+div:nth-child(27)
+{
+    -webkit-animation: blorp-27 3s ease infinite alternate;
+            animation: blorp-27 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-27
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(244deg);
+                transform: rotate(244deg);
+
+        opacity: .5;
+        background: #7f7f7f;
+    }
+}
+@keyframes blorp-27
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(244deg);
+                transform: rotate(244deg);
+
+        opacity: .5;
+        background: #7f7f7f;
+    }
+}
+div:nth-child(28)
+{
+    -webkit-animation: blorp-28 3s ease infinite alternate;
+            animation: blorp-28 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-28
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-69deg);
+                transform: rotate(-69deg);
+
+        opacity: .5;
+        background: #ababab;
+    }
+}
+@keyframes blorp-28
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-69deg);
+                transform: rotate(-69deg);
+
+        opacity: .5;
+        background: #ababab;
+    }
+}
+div:nth-child(29)
+{
+    -webkit-animation: blorp-29 3s ease infinite alternate;
+            animation: blorp-29 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-29
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-61deg);
+                transform: rotate(-61deg);
+
+        opacity: .5;
+        background: #5d5d5d;
+    }
+}
+@keyframes blorp-29
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-61deg);
+                transform: rotate(-61deg);
+
+        opacity: .5;
+        background: #5d5d5d;
+    }
+}
+div:nth-child(30)
+{
+    -webkit-animation: blorp-30 3s ease infinite alternate;
+            animation: blorp-30 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-30
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-119deg);
+                transform: rotate(-119deg);
+
+        opacity: .5;
+        background: #f2f2f2;
+    }
+}
+@keyframes blorp-30
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-119deg);
+                transform: rotate(-119deg);
+
+        opacity: .5;
+        background: #f2f2f2;
+    }
+}
+div:nth-child(31)
+{
+    -webkit-animation: blorp-31 3s ease infinite alternate;
+            animation: blorp-31 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-31
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-188deg);
+                transform: rotate(-188deg);
+
+        opacity: .5;
+        background: #dadada;
+    }
+}
+@keyframes blorp-31
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-188deg);
+                transform: rotate(-188deg);
+
+        opacity: .5;
+        background: #dadada;
+    }
+}
+div:nth-child(32)
+{
+    -webkit-animation: blorp-32 3s ease infinite alternate;
+            animation: blorp-32 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-32
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(180deg);
+                transform: rotate(180deg);
+
+        opacity: .5;
+        background: #a6a6a6;
+    }
+}
+@keyframes blorp-32
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(180deg);
+                transform: rotate(180deg);
+
+        opacity: .5;
+        background: #a6a6a6;
+    }
+}
+div:nth-child(33)
+{
+    -webkit-animation: blorp-33 3s ease infinite alternate;
+            animation: blorp-33 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-33
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-124deg);
+                transform: rotate(-124deg);
+
+        opacity: .5;
+        background: #2b2b2b;
+    }
+}
+@keyframes blorp-33
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-124deg);
+                transform: rotate(-124deg);
+
+        opacity: .5;
+        background: #2b2b2b;
+    }
+}
+div:nth-child(34)
+{
+    -webkit-animation: blorp-34 3s ease infinite alternate;
+            animation: blorp-34 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-34
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-135deg);
+                transform: rotate(-135deg);
+
+        opacity: .5;
+        background: #747474;
+    }
+}
+@keyframes blorp-34
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-135deg);
+                transform: rotate(-135deg);
+
+        opacity: .5;
+        background: #747474;
+    }
+}
+div:nth-child(35)
+{
+    -webkit-animation: blorp-35 3s ease infinite alternate;
+            animation: blorp-35 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-35
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(88deg);
+                transform: rotate(88deg);
+
+        opacity: .5;
+        background: #121212;
+    }
+}
+@keyframes blorp-35
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(88deg);
+                transform: rotate(88deg);
+
+        opacity: .5;
+        background: #121212;
+    }
+}
+div:nth-child(36)
+{
+    -webkit-animation: blorp-36 3s ease infinite alternate;
+            animation: blorp-36 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-36
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-2deg);
+                transform: rotate(-2deg);
+
+        opacity: .5;
+        background: #ddd;
+    }
+}
+@keyframes blorp-36
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-2deg);
+                transform: rotate(-2deg);
+
+        opacity: .5;
+        background: #ddd;
+    }
+}
+div:nth-child(37)
+{
+    -webkit-animation: blorp-37 3s ease infinite alternate;
+            animation: blorp-37 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-37
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(172deg);
+                transform: rotate(172deg);
+
+        opacity: .5;
+        background: #656565;
+    }
+}
+@keyframes blorp-37
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(172deg);
+                transform: rotate(172deg);
+
+        opacity: .5;
+        background: #656565;
+    }
+}
+div:nth-child(38)
+{
+    -webkit-animation: blorp-38 3s ease infinite alternate;
+            animation: blorp-38 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-38
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-204deg);
+                transform: rotate(-204deg);
+
+        opacity: .5;
+        background: #4d4d4d;
+    }
+}
+@keyframes blorp-38
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-204deg);
+                transform: rotate(-204deg);
+
+        opacity: .5;
+        background: #4d4d4d;
+    }
+}
+div:nth-child(39)
+{
+    -webkit-animation: blorp-39 3s ease infinite alternate;
+            animation: blorp-39 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-39
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-139deg);
+                transform: rotate(-139deg);
+
+        opacity: .5;
+        background: #757575;
+    }
+}
+@keyframes blorp-39
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-139deg);
+                transform: rotate(-139deg);
+
+        opacity: .5;
+        background: #757575;
+    }
+}
+div:nth-child(40)
+{
+    -webkit-animation: blorp-40 3s ease infinite alternate;
+            animation: blorp-40 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-40
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-266deg);
+                transform: rotate(-266deg);
+
+        opacity: .5;
+        background: white;
+    }
+}
+@keyframes blorp-40
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-266deg);
+                transform: rotate(-266deg);
+
+        opacity: .5;
+        background: white;
+    }
+}
+div:nth-child(41)
+{
+    -webkit-animation: blorp-41 3s ease infinite alternate;
+            animation: blorp-41 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-41
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(110deg);
+                transform: rotate(110deg);
+
+        opacity: .5;
+        background: #505050;
+    }
+}
+@keyframes blorp-41
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(110deg);
+                transform: rotate(110deg);
+
+        opacity: .5;
+        background: #505050;
+    }
+}
+div:nth-child(42)
+{
+    -webkit-animation: blorp-42 3s ease infinite alternate;
+            animation: blorp-42 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-42
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(335deg);
+                transform: rotate(335deg);
+
+        opacity: .5;
+        background: #707070;
+    }
+}
+@keyframes blorp-42
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(335deg);
+                transform: rotate(335deg);
+
+        opacity: .5;
+        background: #707070;
+    }
+}
+div:nth-child(43)
+{
+    -webkit-animation: blorp-43 3s ease infinite alternate;
+            animation: blorp-43 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-43
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-271deg);
+                transform: rotate(-271deg);
+
+        opacity: .5;
+        background: #bababa;
+    }
+}
+@keyframes blorp-43
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-271deg);
+                transform: rotate(-271deg);
+
+        opacity: .5;
+        background: #bababa;
+    }
+}
+div:nth-child(44)
+{
+    -webkit-animation: blorp-44 3s ease infinite alternate;
+            animation: blorp-44 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-44
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-321deg);
+                transform: rotate(-321deg);
+
+        opacity: .5;
+        background: #b3b3b3;
+    }
+}
+@keyframes blorp-44
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-321deg);
+                transform: rotate(-321deg);
+
+        opacity: .5;
+        background: #b3b3b3;
+    }
+}
+div:nth-child(45)
+{
+    -webkit-animation: blorp-45 3s ease infinite alternate;
+            animation: blorp-45 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-45
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-165deg);
+                transform: rotate(-165deg);
+
+        opacity: .5;
+        background: #dadada;
+    }
+}
+@keyframes blorp-45
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-165deg);
+                transform: rotate(-165deg);
+
+        opacity: .5;
+        background: #dadada;
+    }
+}
+div:nth-child(46)
+{
+    -webkit-animation: blorp-46 3s ease infinite alternate;
+            animation: blorp-46 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-46
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-252deg);
+                transform: rotate(-252deg);
+
+        opacity: .5;
+        background: #373737;
+    }
+}
+@keyframes blorp-46
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-252deg);
+                transform: rotate(-252deg);
+
+        opacity: .5;
+        background: #373737;
+    }
+}
+div:nth-child(47)
+{
+    -webkit-animation: blorp-47 3s ease infinite alternate;
+            animation: blorp-47 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-47
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(257deg);
+                transform: rotate(257deg);
+
+        opacity: .5;
+        background: #141414;
+    }
+}
+@keyframes blorp-47
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(257deg);
+                transform: rotate(257deg);
+
+        opacity: .5;
+        background: #141414;
+    }
+}
+div:nth-child(48)
+{
+    -webkit-animation: blorp-48 3s ease infinite alternate;
+            animation: blorp-48 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-48
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-109deg);
+                transform: rotate(-109deg);
+
+        opacity: .5;
+        background: #242424;
+    }
+}
+@keyframes blorp-48
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-109deg);
+                transform: rotate(-109deg);
+
+        opacity: .5;
+        background: #242424;
+    }
+}
+div:nth-child(49)
+{
+    -webkit-animation: blorp-49 3s ease infinite alternate;
+            animation: blorp-49 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-49
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(314deg);
+                transform: rotate(314deg);
+
+        opacity: .5;
+        background: #0d0d0d;
+    }
+}
+@keyframes blorp-49
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(314deg);
+                transform: rotate(314deg);
+
+        opacity: .5;
+        background: #0d0d0d;
+    }
+}
+div:nth-child(50)
+{
+    -webkit-animation: blorp-50 3s ease infinite alternate;
+            animation: blorp-50 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-50
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-110deg);
+                transform: rotate(-110deg);
+
+        opacity: .5;
+        background: #9a9a9a;
+    }
+}
+@keyframes blorp-50
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-110deg);
+                transform: rotate(-110deg);
+
+        opacity: .5;
+        background: #9a9a9a;
+    }
+}
+div:nth-child(51)
+{
+    -webkit-animation: blorp-51 3s ease infinite alternate;
+            animation: blorp-51 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-51
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(135deg);
+                transform: rotate(135deg);
+
+        opacity: .5;
+        background: #1b1b1b;
+    }
+}
+@keyframes blorp-51
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(135deg);
+                transform: rotate(135deg);
+
+        opacity: .5;
+        background: #1b1b1b;
+    }
+}
+div:nth-child(52)
+{
+    -webkit-animation: blorp-52 3s ease infinite alternate;
+            animation: blorp-52 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-52
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-216deg);
+                transform: rotate(-216deg);
+
+        opacity: .5;
+        background: #0c0c0c;
+    }
+}
+@keyframes blorp-52
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-216deg);
+                transform: rotate(-216deg);
+
+        opacity: .5;
+        background: #0c0c0c;
+    }
+}
+div:nth-child(53)
+{
+    -webkit-animation: blorp-53 3s ease infinite alternate;
+            animation: blorp-53 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-53
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-338deg);
+                transform: rotate(-338deg);
+
+        opacity: .5;
+        background: #9c9c9c;
+    }
+}
+@keyframes blorp-53
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-338deg);
+                transform: rotate(-338deg);
+
+        opacity: .5;
+        background: #9c9c9c;
+    }
+}
+div:nth-child(54)
+{
+    -webkit-animation: blorp-54 3s ease infinite alternate;
+            animation: blorp-54 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-54
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(241deg);
+                transform: rotate(241deg);
+
+        opacity: .5;
+        background: #1b1b1b;
+    }
+}
+@keyframes blorp-54
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(241deg);
+                transform: rotate(241deg);
+
+        opacity: .5;
+        background: #1b1b1b;
+    }
+}
+div:nth-child(55)
+{
+    -webkit-animation: blorp-55 3s ease infinite alternate;
+            animation: blorp-55 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-55
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(322deg);
+                transform: rotate(322deg);
+
+        opacity: .5;
+        background: #fcfcfc;
+    }
+}
+@keyframes blorp-55
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(322deg);
+                transform: rotate(322deg);
+
+        opacity: .5;
+        background: #fcfcfc;
+    }
+}
+div:nth-child(56)
+{
+    -webkit-animation: blorp-56 3s ease infinite alternate;
+            animation: blorp-56 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-56
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-230deg);
+                transform: rotate(-230deg);
+
+        opacity: .5;
+        background: #616161;
+    }
+}
+@keyframes blorp-56
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-230deg);
+                transform: rotate(-230deg);
+
+        opacity: .5;
+        background: #616161;
+    }
+}
+div:nth-child(57)
+{
+    -webkit-animation: blorp-57 3s ease infinite alternate;
+            animation: blorp-57 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-57
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-141deg);
+                transform: rotate(-141deg);
+
+        opacity: .5;
+        background: #aaa;
+    }
+}
+@keyframes blorp-57
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-141deg);
+                transform: rotate(-141deg);
+
+        opacity: .5;
+        background: #aaa;
+    }
+}
+div:nth-child(58)
+{
+    -webkit-animation: blorp-58 3s ease infinite alternate;
+            animation: blorp-58 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-58
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(123deg);
+                transform: rotate(123deg);
+
+        opacity: .5;
+        background: #e8e8e8;
+    }
+}
+@keyframes blorp-58
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(123deg);
+                transform: rotate(123deg);
+
+        opacity: .5;
+        background: #e8e8e8;
+    }
+}
+div:nth-child(59)
+{
+    -webkit-animation: blorp-59 3s ease infinite alternate;
+            animation: blorp-59 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-59
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(266deg);
+                transform: rotate(266deg);
+
+        opacity: .5;
+        background: #888;
+    }
+}
+@keyframes blorp-59
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(266deg);
+                transform: rotate(266deg);
+
+        opacity: .5;
+        background: #888;
+    }
+}
+div:nth-child(60)
+{
+    -webkit-animation: blorp-60 3s ease infinite alternate;
+            animation: blorp-60 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-60
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(26deg);
+                transform: rotate(26deg);
+
+        opacity: .5;
+        background: #4f4f4f;
+    }
+}
+@keyframes blorp-60
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(26deg);
+                transform: rotate(26deg);
+
+        opacity: .5;
+        background: #4f4f4f;
+    }
+}
+div:nth-child(61)
+{
+    -webkit-animation: blorp-61 3s ease infinite alternate;
+            animation: blorp-61 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-61
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-347deg);
+                transform: rotate(-347deg);
+
+        opacity: .5;
+        background: #8a8a8a;
+    }
+}
+@keyframes blorp-61
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-347deg);
+                transform: rotate(-347deg);
+
+        opacity: .5;
+        background: #8a8a8a;
+    }
+}
+div:nth-child(62)
+{
+    -webkit-animation: blorp-62 3s ease infinite alternate;
+            animation: blorp-62 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-62
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-118deg);
+                transform: rotate(-118deg);
+
+        opacity: .5;
+        background: #5e5e5e;
+    }
+}
+@keyframes blorp-62
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-118deg);
+                transform: rotate(-118deg);
+
+        opacity: .5;
+        background: #5e5e5e;
+    }
+}
+div:nth-child(63)
+{
+    -webkit-animation: blorp-63 3s ease infinite alternate;
+            animation: blorp-63 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-63
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-287deg);
+                transform: rotate(-287deg);
+
+        opacity: .5;
+        background: #b7b7b7;
+    }
+}
+@keyframes blorp-63
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-287deg);
+                transform: rotate(-287deg);
+
+        opacity: .5;
+        background: #b7b7b7;
+    }
+}
+div:nth-child(64)
+{
+    -webkit-animation: blorp-64 3s ease infinite alternate;
+            animation: blorp-64 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-64
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-205deg);
+                transform: rotate(-205deg);
+
+        opacity: .5;
+        background: #181818;
+    }
+}
+@keyframes blorp-64
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-205deg);
+                transform: rotate(-205deg);
+
+        opacity: .5;
+        background: #181818;
+    }
+}
+div:nth-child(65)
+{
+    -webkit-animation: blorp-65 3s ease infinite alternate;
+            animation: blorp-65 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-65
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(352deg);
+                transform: rotate(352deg);
+
+        opacity: .5;
+        background: #414141;
+    }
+}
+@keyframes blorp-65
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(352deg);
+                transform: rotate(352deg);
+
+        opacity: .5;
+        background: #414141;
+    }
+}
+div:nth-child(66)
+{
+    -webkit-animation: blorp-66 3s ease infinite alternate;
+            animation: blorp-66 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-66
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-347deg);
+                transform: rotate(-347deg);
+
+        opacity: .5;
+        background: #727272;
+    }
+}
+@keyframes blorp-66
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-347deg);
+                transform: rotate(-347deg);
+
+        opacity: .5;
+        background: #727272;
+    }
+}
+div:nth-child(67)
+{
+    -webkit-animation: blorp-67 3s ease infinite alternate;
+            animation: blorp-67 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-67
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-160deg);
+                transform: rotate(-160deg);
+
+        opacity: .5;
+        background: #f7f7f7;
+    }
+}
+@keyframes blorp-67
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-160deg);
+                transform: rotate(-160deg);
+
+        opacity: .5;
+        background: #f7f7f7;
+    }
+}
+div:nth-child(68)
+{
+    -webkit-animation: blorp-68 3s ease infinite alternate;
+            animation: blorp-68 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-68
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-25deg);
+                transform: rotate(-25deg);
+
+        opacity: .5;
+        background: #949494;
+    }
+}
+@keyframes blorp-68
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-25deg);
+                transform: rotate(-25deg);
+
+        opacity: .5;
+        background: #949494;
+    }
+}
+div:nth-child(69)
+{
+    -webkit-animation: blorp-69 3s ease infinite alternate;
+            animation: blorp-69 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-69
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(168deg);
+                transform: rotate(168deg);
+
+        opacity: .5;
+        background: #191919;
+    }
+}
+@keyframes blorp-69
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(168deg);
+                transform: rotate(168deg);
+
+        opacity: .5;
+        background: #191919;
+    }
+}
+div:nth-child(70)
+{
+    -webkit-animation: blorp-70 3s ease infinite alternate;
+            animation: blorp-70 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-70
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(216deg);
+                transform: rotate(216deg);
+
+        opacity: .5;
+        background: #0c0c0c;
+    }
+}
+@keyframes blorp-70
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(216deg);
+                transform: rotate(216deg);
+
+        opacity: .5;
+        background: #0c0c0c;
+    }
+}
+div:nth-child(71)
+{
+    -webkit-animation: blorp-71 3s ease infinite alternate;
+            animation: blorp-71 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-71
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-335deg);
+                transform: rotate(-335deg);
+
+        opacity: .5;
+        background: #2a2a2a;
+    }
+}
+@keyframes blorp-71
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-335deg);
+                transform: rotate(-335deg);
+
+        opacity: .5;
+        background: #2a2a2a;
+    }
+}
+div:nth-child(72)
+{
+    -webkit-animation: blorp-72 3s ease infinite alternate;
+            animation: blorp-72 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-72
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-45deg);
+                transform: rotate(-45deg);
+
+        opacity: .5;
+        background: #747474;
+    }
+}
+@keyframes blorp-72
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-45deg);
+                transform: rotate(-45deg);
+
+        opacity: .5;
+        background: #747474;
+    }
+}
+div:nth-child(73)
+{
+    -webkit-animation: blorp-73 3s ease infinite alternate;
+            animation: blorp-73 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-73
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(197deg);
+                transform: rotate(197deg);
+
+        opacity: .5;
+        background: #6e6e6e;
+    }
+}
+@keyframes blorp-73
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(197deg);
+                transform: rotate(197deg);
+
+        opacity: .5;
+        background: #6e6e6e;
+    }
+}
+div:nth-child(74)
+{
+    -webkit-animation: blorp-74 3s ease infinite alternate;
+            animation: blorp-74 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-74
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-258deg);
+                transform: rotate(-258deg);
+
+        opacity: .5;
+        background: #7f7f7f;
+    }
+}
+@keyframes blorp-74
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-258deg);
+                transform: rotate(-258deg);
+
+        opacity: .5;
+        background: #7f7f7f;
+    }
+}
+div:nth-child(75)
+{
+    -webkit-animation: blorp-75 3s ease infinite alternate;
+            animation: blorp-75 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-75
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(295deg);
+                transform: rotate(295deg);
+
+        opacity: .5;
+        background: #d6d6d6;
+    }
+}
+@keyframes blorp-75
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(295deg);
+                transform: rotate(295deg);
+
+        opacity: .5;
+        background: #d6d6d6;
+    }
+}
+div:nth-child(76)
+{
+    -webkit-animation: blorp-76 3s ease infinite alternate;
+            animation: blorp-76 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-76
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(270deg);
+                transform: rotate(270deg);
+
+        opacity: .5;
+        background: #101010;
+    }
+}
+@keyframes blorp-76
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(270deg);
+                transform: rotate(270deg);
+
+        opacity: .5;
+        background: #101010;
+    }
+}
+div:nth-child(77)
+{
+    -webkit-animation: blorp-77 3s ease infinite alternate;
+            animation: blorp-77 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-77
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(165deg);
+                transform: rotate(165deg);
+
+        opacity: .5;
+        background: #707070;
+    }
+}
+@keyframes blorp-77
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(165deg);
+                transform: rotate(165deg);
+
+        opacity: .5;
+        background: #707070;
+    }
+}
+div:nth-child(78)
+{
+    -webkit-animation: blorp-78 3s ease infinite alternate;
+            animation: blorp-78 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-78
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-108deg);
+                transform: rotate(-108deg);
+
+        opacity: .5;
+        background: #6d6d6d;
+    }
+}
+@keyframes blorp-78
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-108deg);
+                transform: rotate(-108deg);
+
+        opacity: .5;
+        background: #6d6d6d;
+    }
+}
+div:nth-child(79)
+{
+    -webkit-animation: blorp-79 3s ease infinite alternate;
+            animation: blorp-79 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-79
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(301deg);
+                transform: rotate(301deg);
+
+        opacity: .5;
+        background: #656565;
+    }
+}
+@keyframes blorp-79
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(301deg);
+                transform: rotate(301deg);
+
+        opacity: .5;
+        background: #656565;
+    }
+}
+div:nth-child(80)
+{
+    -webkit-animation: blorp-80 3s ease infinite alternate;
+            animation: blorp-80 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-80
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(107deg);
+                transform: rotate(107deg);
+
+        opacity: .5;
+        background: #6a6a6a;
+    }
+}
+@keyframes blorp-80
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(107deg);
+                transform: rotate(107deg);
+
+        opacity: .5;
+        background: #6a6a6a;
+    }
+}
+div:nth-child(81)
+{
+    -webkit-animation: blorp-81 3s ease infinite alternate;
+            animation: blorp-81 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-81
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(77deg);
+                transform: rotate(77deg);
+
+        opacity: .5;
+        background: #959595;
+    }
+}
+@keyframes blorp-81
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(77deg);
+                transform: rotate(77deg);
+
+        opacity: .5;
+        background: #959595;
+    }
+}
+div:nth-child(82)
+{
+    -webkit-animation: blorp-82 3s ease infinite alternate;
+            animation: blorp-82 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-82
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(90deg);
+                transform: rotate(90deg);
+
+        opacity: .5;
+        background: #0a0a0a;
+    }
+}
+@keyframes blorp-82
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(90deg);
+                transform: rotate(90deg);
+
+        opacity: .5;
+        background: #0a0a0a;
+    }
+}
+div:nth-child(83)
+{
+    -webkit-animation: blorp-83 3s ease infinite alternate;
+            animation: blorp-83 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-83
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-131deg);
+                transform: rotate(-131deg);
+
+        opacity: .5;
+        background: #898989;
+    }
+}
+@keyframes blorp-83
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-131deg);
+                transform: rotate(-131deg);
+
+        opacity: .5;
+        background: #898989;
+    }
+}
+div:nth-child(84)
+{
+    -webkit-animation: blorp-84 3s ease infinite alternate;
+            animation: blorp-84 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-84
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(157deg);
+                transform: rotate(157deg);
+
+        opacity: .5;
+        background: #919191;
+    }
+}
+@keyframes blorp-84
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(157deg);
+                transform: rotate(157deg);
+
+        opacity: .5;
+        background: #919191;
+    }
+}
+div:nth-child(85)
+{
+    -webkit-animation: blorp-85 3s ease infinite alternate;
+            animation: blorp-85 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-85
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(149deg);
+                transform: rotate(149deg);
+
+        opacity: .5;
+        background: #7e7e7e;
+    }
+}
+@keyframes blorp-85
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(149deg);
+                transform: rotate(149deg);
+
+        opacity: .5;
+        background: #7e7e7e;
+    }
+}
+div:nth-child(86)
+{
+    -webkit-animation: blorp-86 3s ease infinite alternate;
+            animation: blorp-86 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-86
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-70deg);
+                transform: rotate(-70deg);
+
+        opacity: .5;
+        background: #050505;
+    }
+}
+@keyframes blorp-86
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-70deg);
+                transform: rotate(-70deg);
+
+        opacity: .5;
+        background: #050505;
+    }
+}
+div:nth-child(87)
+{
+    -webkit-animation: blorp-87 3s ease infinite alternate;
+            animation: blorp-87 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-87
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(121deg);
+                transform: rotate(121deg);
+
+        opacity: .5;
+        background: #c3c3c3;
+    }
+}
+@keyframes blorp-87
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(121deg);
+                transform: rotate(121deg);
+
+        opacity: .5;
+        background: #c3c3c3;
+    }
+}
+div:nth-child(88)
+{
+    -webkit-animation: blorp-88 3s ease infinite alternate;
+            animation: blorp-88 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-88
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-160deg);
+                transform: rotate(-160deg);
+
+        opacity: .5;
+        background: #959595;
+    }
+}
+@keyframes blorp-88
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-160deg);
+                transform: rotate(-160deg);
+
+        opacity: .5;
+        background: #959595;
+    }
+}
+div:nth-child(89)
+{
+    -webkit-animation: blorp-89 3s ease infinite alternate;
+            animation: blorp-89 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-89
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-49deg);
+                transform: rotate(-49deg);
+
+        opacity: .5;
+        background: #a7a7a7;
+    }
+}
+@keyframes blorp-89
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-49deg);
+                transform: rotate(-49deg);
+
+        opacity: .5;
+        background: #a7a7a7;
+    }
+}
+div:nth-child(90)
+{
+    -webkit-animation: blorp-90 3s ease infinite alternate;
+            animation: blorp-90 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-90
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-163deg);
+                transform: rotate(-163deg);
+
+        opacity: .5;
+        background: #616161;
+    }
+}
+@keyframes blorp-90
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-163deg);
+                transform: rotate(-163deg);
+
+        opacity: .5;
+        background: #616161;
+    }
+}
+div:nth-child(91)
+{
+    -webkit-animation: blorp-91 3s ease infinite alternate;
+            animation: blorp-91 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-91
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(342deg);
+                transform: rotate(342deg);
+
+        opacity: .5;
+        background: #212121;
+    }
+}
+@keyframes blorp-91
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(342deg);
+                transform: rotate(342deg);
+
+        opacity: .5;
+        background: #212121;
+    }
+}
+div:nth-child(92)
+{
+    -webkit-animation: blorp-92 3s ease infinite alternate;
+            animation: blorp-92 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-92
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(236deg);
+                transform: rotate(236deg);
+
+        opacity: .5;
+        background: gray;
+    }
+}
+@keyframes blorp-92
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(236deg);
+                transform: rotate(236deg);
+
+        opacity: .5;
+        background: gray;
+    }
+}
+div:nth-child(93)
+{
+    -webkit-animation: blorp-93 3s ease infinite alternate;
+            animation: blorp-93 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-93
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(172deg);
+                transform: rotate(172deg);
+
+        opacity: .5;
+        background: #efefef;
+    }
+}
+@keyframes blorp-93
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(172deg);
+                transform: rotate(172deg);
+
+        opacity: .5;
+        background: #efefef;
+    }
+}
+div:nth-child(94)
+{
+    -webkit-animation: blorp-94 3s ease infinite alternate;
+            animation: blorp-94 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-94
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(83deg);
+                transform: rotate(83deg);
+
+        opacity: .5;
+        background: #5a5a5a;
+    }
+}
+@keyframes blorp-94
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(83deg);
+                transform: rotate(83deg);
+
+        opacity: .5;
+        background: #5a5a5a;
+    }
+}
+div:nth-child(95)
+{
+    -webkit-animation: blorp-95 3s ease infinite alternate;
+            animation: blorp-95 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-95
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-286deg);
+                transform: rotate(-286deg);
+
+        opacity: .5;
+        background: #464646;
+    }
+}
+@keyframes blorp-95
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-286deg);
+                transform: rotate(-286deg);
+
+        opacity: .5;
+        background: #464646;
+    }
+}
+div:nth-child(96)
+{
+    -webkit-animation: blorp-96 3s ease infinite alternate;
+            animation: blorp-96 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-96
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(122deg);
+                transform: rotate(122deg);
+
+        opacity: .5;
+        background: #d2d2d2;
+    }
+}
+@keyframes blorp-96
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(122deg);
+                transform: rotate(122deg);
+
+        opacity: .5;
+        background: #d2d2d2;
+    }
+}
+div:nth-child(97)
+{
+    -webkit-animation: blorp-97 3s ease infinite alternate;
+            animation: blorp-97 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-97
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-299deg);
+                transform: rotate(-299deg);
+
+        opacity: .5;
+        background: #191919;
+    }
+}
+@keyframes blorp-97
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-299deg);
+                transform: rotate(-299deg);
+
+        opacity: .5;
+        background: #191919;
+    }
+}
+div:nth-child(98)
+{
+    -webkit-animation: blorp-98 3s ease infinite alternate;
+            animation: blorp-98 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-98
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(285deg);
+                transform: rotate(285deg);
+
+        opacity: .5;
+        background: #2f2f2f;
+    }
+}
+@keyframes blorp-98
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(285deg);
+                transform: rotate(285deg);
+
+        opacity: .5;
+        background: #2f2f2f;
+    }
+}
+div:nth-child(99)
+{
+    -webkit-animation: blorp-99 3s ease infinite alternate;
+            animation: blorp-99 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-99
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(174deg);
+                transform: rotate(174deg);
+
+        opacity: .5;
+        background: #e4e4e4;
+    }
+}
+@keyframes blorp-99
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(174deg);
+                transform: rotate(174deg);
+
+        opacity: .5;
+        background: #e4e4e4;
+    }
+}
+div:nth-child(100)
+{
+    -webkit-animation: blorp-100 3s ease infinite alternate;
+            animation: blorp-100 3s ease infinite alternate;
+}
+@-webkit-keyframes blorp-100
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-24deg);
+                transform: rotate(-24deg);
+
+        opacity: .5;
+        background: #a0a0a0;
+    }
+}
+@keyframes blorp-100
+{
+    to
+    {
+        height: 20px;
+
+        -webkit-transform: rotate(-24deg);
+                transform: rotate(-24deg);
+
+        opacity: .5;
+        background: #a0a0a0;
+    }
+}

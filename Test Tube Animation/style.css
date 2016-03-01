@@ -1,0 +1,56 @@
+* {
+			box-sizing: border-box;
+		}
+
+		body {
+			background: #dbe4eb;
+
+			font-family: 'Roboto', sans-serif;
+		}
+
+		#overlay {
+			position: absolute;
+			top: 0;
+			left: 0;
+			background: rgba(5,24,39,0.75);
+			width: 100%;
+			height: 100%;
+		}
+
+		#wrapper {
+			position: absolute;
+			left: 50%;
+			top: 35%;
+			width: 100px;
+			height: 300px;
+			transform: translate(-50%, -50%);
+
+			background: transparent;
+		}
+
+		#bubles {
+			transform: translateY(60px) rotate(180deg);
+			position: absolute;
+		}
+
+		#glass {
+			position: absolute;
+			top: 275px;
+		}
+
+		#liq {
+			position: absolute;
+			top: 275px;
+			transform: scale(1.1);
+		}
+
+		#glass::after {
+			position: absolute;
+			content: '';
+			background: url(loader_glass.svg) no-repeat center;
+			background-size: 250px;
+			width: 150px;
+			height: 220px;
+			top: 100px;
+			left: -30px;
+		}

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="UTF-8">
+        <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+	<div id="overlay"></div>
+	<div id="wrapper">
+
+		<svg id = "bubles"
+			  xmlns="http://www.w3.org/2000/svg"
+    		xmlns:xlink="http://www.w3.org/1999/xlink"
+    		width = "100"
+    		height = "250"
+    	>
+
+    	<circle r="7" x="0" y="0" width="7" height="7" style="stroke: #ffffff; stroke-width: 0px; fill: #2ebaee">
+			    <animateMotion
+			    	  id = "first-buble"
+			        path = "M50,10 q25,30 0,50 q-25,30 0,50"
+			        begin = "0s"
+			        dur="4s"
+			        repeatCount="indefinite"
+			        fill = "freeze"
+			    />
+			    <animateTransform
+			    	attributeName = "transform"
+			    	type="scale"
+			    	from = "1"
+			    	to = "0.15"
+			    	begin = "0s"
+			    	dur = "4s"
+			    	repeatCount = "indefinite"
+			    	fill = "freeze"
+			    />
+			</circle>
+
+			<circle r="7" x="0" y="0" width="7" height="7" style="stroke: #ffffff; stroke-width: 0px; fill: #e82558; opacity: 1">
+			    <animateMotion
+			        path = "M50,10 q45,30 -10,50 q-45,30 10,50"
+			        begin = "1.3s"
+			        dur="3s"
+			        repeatCount="indefinite"
+			    />
+			    <animateTransform
+			    	attributeName = "transform"
+			    	type="scale"
+			    	from = "1"
+			    	to = "0.15"
+			    	begin = "1.3s"
+			    	dur = "3s"
+			    	repeatCount = "indefinite"
+			    />
+			</circle>
+
+			<circle r="7" x="0" y="0" width="7" height="7" style="stroke: #ffffff; stroke-width: 0px; fill: #6eefb3; opacity: 1">
+			    <animateMotion
+			    	  id = "first-buble"
+			        path = "M50,10 q25,30 0,50 q-25,30 0,50"
+			        begin = "2.6s"
+			        dur="4s"
+			        repeatCount="indefinite"
+			    />
+			    <animateTransform
+			    	attributeName = "transform"
+			    	type="scale"
+			    	from = "1"
+			    	to = "0.15"
+			    	begin = "2.6s"
+			    	dur = "4s"
+			    	repeatCount = "indefinite"
+			    />
+			</circle>
+
+			<!-- reverce -->
+			<circle r="7" x="0" y="0" width="7" height="7" style="stroke: #ffffff; stroke-width: 0px; fill: #e82558; opacity: 1">
+			    <animateMotion
+			        path = "M50,10 q-45,30 10,50 q45,30 -10,50"
+			        begin = "2.9s"
+			        dur="3.5s"
+			        repeatCount="indefinite"
+			    />
+			    <animateTransform
+			    	attributeName = "transform"
+			    	type="scale"
+			    	from = "1"
+			    	to = "0.15"
+			    	begin = "2.9s"
+			    	dur = "3.5s"
+			    	repeatCount = "indefinite"
+			    />
+			</circle>
+			<circle r="9" x="0" y="0" width="9" height="9" style="stroke: #ffffff; stroke-width: 0px; fill: #2ebaee; opacity: 1">
+			    <animateMotion
+			        path = "M50,10 q65,40 -20,60 q-65,30 40,70"
+			        begin = "1s"
+			        dur="6s"
+			        repeatCount="indefinite"
+			    />
+			    <animateTransform
+			    	attributeName = "transform"
+			    	type="scale"
+			    	from = "1"
+			    	to = "0.15"
+			    	begin = "1s"
+			    	dur = "6s"
+			    	repeatCount = "indefinite"
+			    />
+			</circle>
+			<circle r="8" x="0" y="0" width="8" height="8" style="stroke: #ffffff; stroke-width: 0px; fill: #6eefb3; opacity: 1">
+			    <animateMotion
+			        path = "M50,10 q-25,40 10,150"
+			        begin = "2.2s"
+			        dur="3.5s"
+			        repeatCount="indefinite"
+			    />
+			    <animateTransform
+			    	attributeName = "transform"
+			    	type="scale"
+			    	from = "1"
+			    	to = "0.15"
+			    	begin = "2.2s"
+			    	dur = "3.5s"
+			    	repeatCount = "indefinite"
+			    />
+			</circle>
+    	</svg>
+
+    	<svg id="liq"
+			x = "0px"
+			y = "0px"
+			width = "100px"
+			height = "100px"
+			fill = "#2ebaee"
+			stroke = "#ffffff"
+			stroke-width = "0px">
+			<path
+				d = "m 50,89.377 c -5.327,0 -9.5,-4.247 -9.5,-9.668 l 0,-17.719 c 2,-0.452 5.888,-1.147 8.836,1.801 1.413,1.413 3.282,2.156 5.18,2.156 0.067,0 -0.053,-0.001 0.015,-0.003 1.883,-0.052 3.97,-0.812 4.97,-1.725 l 0,15.489 C 59.5,85.13 55.327,89.377 50,89.377 Z"
+			/>
+		</svg>
+
+		<svg id="glass"
+		   x = "0px"
+		   y = "0px"
+		   width = "100px"
+		   height = "100px"
+		   fill = "#dbe4eb">
+		   <path
+		     d="m 36.5,31.5 c -3.341,0 -7,1.912881 -7,6.502426 0.100738,4.518411 3.462783,6.47573 7,6.497574 l 0,35.208984 c 0,7.536 6.056,13.667969 13.5,13.667969 7.444,0 13.5,-6.131969 13.5,-13.667969 L 63.5,44.5 c 4.844829,0.04444 7.373885,-1.608205 7.373885,-6.497574 0,-4.449592 -2.53177,-6.502426 -5.97377,-6.502426 z m 0,4 28.400115,0 c 0,0 2.647918,-0.127649 2.498108,2.502426 C 67.515991,40.434806 64.900115,40.5 64.900115,40.5 L 62,40.5 c -1.104,0 -2.5,1.275859 -2.5,2.380859 -6.41e-4,12.222393 0.0021,25.822443 0.002,36.826172 -0.001,5.422 -4.174953,9.669922 -9.501953,9.669922 -5.327,0 -9.5,-4.246969 -9.5,-9.667969 C 40.500066,67.524508 40.499998,53.92256 40.5,42.880859 40.5,41.776859 40.104,40.5 39,40.5 l -2.5,0 c 0,0 -3,-0.08822 -3,-2.497574 C 33.5,36.49457 35.402,35.5 36.5,35.5 Z"
+		     id="path4"
+		    />
+		</svg>
+  </body>
+</html>
